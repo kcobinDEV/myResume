@@ -8,21 +8,22 @@ div
     z-index: 1;
     height:40px;
     width: 98%;
-    background-color: #668284;
+    background-color: #a6a6a6;
     margin-bottom: 10px
     }
 
 #name {
-    float:left;
-	margin-left: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
+    float: left;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: #ffffff;
 }
 
 #email{
     float:right;
+
     margin-right: 20px;
 	padding-bottom: 10px;
 	font-size: 16px;
@@ -30,6 +31,13 @@ div
 	color: #ffffff;
 }
 
+#gitHub{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: #ffffff;
+}
 #contact
 {
     margin-left:45%;
@@ -52,7 +60,7 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-    background-color: #E3EDD8;
+    background-color: #a4c69f;
     }
 
 /*.left
@@ -70,7 +78,7 @@ a:hover {
     height:40px;
     clear:both;
     position: relative;
-    background-color: #C1E3E1;
+    background-color: #a6a6a6;
     }
     
 h3
